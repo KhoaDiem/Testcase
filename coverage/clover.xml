@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654764167542" clover="3.2.0">
+  <project timestamp="1654764167542" name="All files">
+    <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1" elements="11" coveredelements="2" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="E:\JS\test\main.js">
+      <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <line num="2" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
